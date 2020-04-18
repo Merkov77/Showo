@@ -5,5 +5,6 @@
 
 > render(<App/>, document.getElementById("root"))
 
+
 ## You can add bg (background), fg (foreground), br (border-radius), pd (padding), fs (font-size) and ta (text-align)
 
