@@ -8,3 +8,4 @@
 
 ## You can add properties: bg (background), fg (foreground), br (border-radius), pd (padding), fs (font-size) and ta (text-align) - (Optional)
 
+![Image description](showo.gif)
